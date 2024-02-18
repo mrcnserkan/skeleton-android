@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-  namespace = "net.marcoromano.skeleton.feature"
+  namespace = "dev.serkanmercan.skeleton.feature"
 }
 
 dependencies {
